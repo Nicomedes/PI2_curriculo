@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+/Pi2EntitiyLib/nbproject/private/
+/Pi2EE-ejb/nbproject/private/
+/Pi2EE-war/nbproject/private/
+/nbproject/private/
+/Pi2EntitiyLib/build/
+/Pi2EE-ejb/build/
+/Pi2EntitiyLib/dist/
+/build/
+/Pi2EE-war/dist/
+/Pi2EE-war/build/
+/Pi2EE-ejb/dist/
